@@ -1,0 +1,16 @@
+{
+  "name": "aws-auth0-api-gateway",
+  "version": "1.0.0",
+  "description": "Demonstration of protecting API gateway endpoints with auth0",
+  "license": "MIT",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "firebase": "^4.9.0",
+    "firebase-admin": "^5.8.2",
+    "jsonwebtoken": "^8.1.0",
+    "serverless": "^1.26.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.16.0"
+  }
+}
